@@ -30,7 +30,7 @@ This isn't a dump of random solutions — it's a **daily log of deliberate pract
 
 </div>
 
-📌 *Profile: [sindhuja_sankarmoorthy](https://leetcode.com/u/sindhuja_sankaramoorthy/)
+📌 *Profile: [sindhuja_sankarmoorthy](https://leetcode.com/u/sindhuja_sankaramoorthy/)*
 
 ---
 
