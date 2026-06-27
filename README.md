@@ -1,41 +1,40 @@
-🧠 LeetCode Solutions — My Coding Journey 🚀
+# 🧠 LeetCode Solutions — My Coding Journey 🚀
 
+> Daily LeetCode & DSA practice — one problem at a time, building consistency and problem-solving muscle.
 
-Daily LeetCode & DSA practice — one problem at a time, building consistency and problem-solving muscle.
+![Language](https://img.shields.io/badge/language-Java-orange)
+![Focus](https://img.shields.io/badge/focus-DSA%20%26%20Problem%20Solving-blueviolet)
+![Status](https://img.shields.io/badge/status-actively%20growing-brightgreen)
 
+---
 
+## 📌 Why this repo exists
 
-Show Image
-Show Image
-Show Image
+This isn't a dump of random solutions — it's a **daily log of deliberate practice**. The goal is simple: solve consistently, think out loud in code, and track growth over time across core DSA topics.
 
-<!-- 🔄 Dynamic / auto-updating badges (pull live data from GitHub, no manual edits needed) -->
-Show Image
-Show Image
-Show Image
-Show Image
+> 🎯 **Goal:** Stay consistent. Solve something — anything — every day.
 
+---
 
-📌 Why this repo exists
+## 🟧 LeetCode Progress
 
-This isn't a dump of random solutions — it's a daily log of deliberate practice. The goal is simple: solve consistently, think out loud in code, and track growth over time across core DSA topics.
+<p align="center">
+  <img src="./assets/leetcode-stats.png" alt="LeetCode Stats" width="85%" />
+</p>
 
+<div align="center">
 
-🎯 Goal: Stay consistent. Solve something — anything — every day.
+| Solved | Easy | Medium | Hard | Active Days | Max Streak |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| **117** / 3973 | 91 / 951 | 24 / 2074 | 2 / 948 | 111 | 79 |
 
+</div>
 
+📌 *Profile: [sindhuja_sankarmoorthy](https://leetcode.com/u/sindhuja_sankarmoorthy/) — update this image periodically to keep the snapshot fresh.*
 
+---
 
-🔥 Live Activity
+## 🛠️ Tech
 
-These update automatically as commits land — no manual editing required.
-
-Show Image
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sindhujasankaramoorthy&repo=leetcode-solutions&theme=react-dark&hide_border=true" alt="commit activity graph" width="100%"/>
-
-🛠️ Tech
-
-
-Language: Java ☕
-Platform: LeetCode
+- **Language:** Java ☕
+- **Platform:** [LeetCode](https://leetcode.com/u/sindhuja_sankarmoorthy/)
