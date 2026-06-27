@@ -19,7 +19,7 @@ This isn't a dump of random solutions — it's a **daily log of deliberate pract
 ## 🟧 LeetCode Progress
 
 <p align="center">
-  <img src="./assets/leetcode-stats.png" alt="LeetCode Stats" width="85%" />
+  <img src="https://github.com/user-attachments/assets/a7e7775a-6a4a-4a79-abf4-717cdb465750" alt="LeetCode Stats" width="85%" />
 </p>
 
 <div align="center">
