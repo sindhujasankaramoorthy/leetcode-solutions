@@ -38,3 +38,19 @@ This isn't a dump of random solutions — it's a **daily log of deliberate pract
 
 - **Language:** Java ☕
 - **Platform:** [LeetCode](https://leetcode.com/u/sindhuja_sankarmoorthy/)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0089-gray-code](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0089-gray-code/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0089-gray-code](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0089-gray-code/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0089-gray-code](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0089-gray-code/) | Medium |
+<!---LeetCode Topics End-->
