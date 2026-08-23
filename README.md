@@ -44,6 +44,7 @@ This isn't a dump of random solutions — it's a **daily log of deliberate pract
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0089-gray-code](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0089-gray-code/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -52,5 +53,14 @@ This isn't a dump of random solutions — it's a **daily log of deliberate pract
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0089-gray-code](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0089-gray-code/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
