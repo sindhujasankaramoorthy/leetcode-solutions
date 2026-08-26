@@ -50,6 +50,7 @@ This isn't a dump of random solutions — it's a **daily log of deliberate pract
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Hard/0052-n-queens-ii/) | Hard |
 | [0089-gray-code](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0089-gray-code/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -84,4 +85,5 @@ This isn't a dump of random solutions — it's a **daily log of deliberate pract
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Hard/0052-n-queens-ii/) | Hard |
 <!---LeetCode Topics End-->
