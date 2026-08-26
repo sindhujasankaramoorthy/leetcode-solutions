@@ -56,6 +56,7 @@ This isn't a dump of random solutions — it's a **daily log of deliberate pract
 | [0067-add-binary](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0089-gray-code](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0089-gray-code/) | Medium |
 | [0190-reverse-bits](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0190-reverse-bits/) | Easy |
+| [0393-utf-8-validation](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0393-utf-8-validation/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,4 +74,8 @@ This isn't a dump of random solutions — it's a **daily log of deliberate pract
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0190-reverse-bits/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0393-utf-8-validation](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0393-utf-8-validation/) | Medium |
 <!---LeetCode Topics End-->
