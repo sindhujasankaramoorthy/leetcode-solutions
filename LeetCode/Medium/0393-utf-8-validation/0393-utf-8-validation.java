@@ -1,32 +1,28 @@
 class Solution {
     public boolean validUtf8(int[] data) {
-        String[] bin=new String[data.length];
+        int n=data.length;
+        String[] bin=new String[n];
 
-        for(int i=0;i<data.length;i++){
-            bin[i]= String.format("%8s", Integer.toBinaryString(data[i])).replace(' ','0');
+        for(int i=0;i<n;i++) {
+            bin[i] = String.format("%8s", Integer.toBinaryString(data[i]))
+                  .replace(' ', '0');
         }
+        int[] count=new int[n];
 
-        int[] count=new int[data.length];
-
-        for(int i=0;i<data.length;i++) {
+        for(int i=0;i<n;i++) {
+            String s=bin[i];
             int c=0;
-            String d=bin[i];
 
-            for(int j=0;j<d.length();j++) {
-                if(d.charAt(j)=='1') {
-                    c++;
-                }else {
-                    break;
-                }
-            } 
+            for(int j=0;j<s.length();j++) {
+                if(s.charAt(j)=='1') c++;
+                else break; 
+            }
 
             count[i]=c;
         }
 
         int i=0;
-
-
-        while(i<data.length) {
+        while(i<n) {
             if(count[i]==0) {
                 i++;
                 continue;
@@ -39,15 +35,13 @@ class Solution {
             int req=count[i]-1;
 
             for(int j=1;j<=req;j++) {
-                if(i+j >= data.length) {
+                if(i+j>=n || count[i+j]!=1) {
                     return false;
                 }
-                if(count[i+j]!=1) {
-                    return false;
-                }
-            }
+            } 
             i+=count[i];
         }
+
         return true;
     }
 }
