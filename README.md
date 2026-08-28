@@ -86,6 +86,7 @@ This isn't a dump of random solutions — it's a **daily log of deliberate pract
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0393-utf-8-validation](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0393-utf-8-validation/) | Medium |
 | [0486-predict-the-winner](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0674-longest-continuous-increasing-subsequence/) | Easy |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
