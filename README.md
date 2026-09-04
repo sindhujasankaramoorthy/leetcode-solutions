@@ -92,6 +92,7 @@ This isn't a dump of random solutions — it's a **daily log of deliberate pract
 | [0486-predict-the-winner](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0740-delete-and-earn](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0740-delete-and-earn/) | Medium |
+| [0994-rotting-oranges](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,4 +144,12 @@ This isn't a dump of random solutions — it's a **daily log of deliberate pract
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/1143-longest-common-subsequence/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0994-rotting-oranges](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0994-rotting-oranges](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 <!---LeetCode Topics End-->
