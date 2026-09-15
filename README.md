@@ -152,6 +152,7 @@ This isn't a dump of random solutions — it's a **daily log of deliberate pract
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0733-flood-fill](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 ## Matrix
@@ -176,13 +177,16 @@ This isn't a dump of random solutions — it's a **daily log of deliberate pract
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0733-flood-fill](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 <!---LeetCode Topics End-->
