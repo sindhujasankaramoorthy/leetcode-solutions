@@ -17,6 +17,9 @@ class Solution {
 
         while(!q.isEmpty()) {
             int d=q.poll();
+            if (d == destination) {
+                return true;
+            }
 
             for(int next:graph.get(d)){
                 if(!vis[next]) {
@@ -26,6 +29,6 @@ class Solution {
             }
         }
 
-        return vis[destination];
+        return false;
     }
 }
