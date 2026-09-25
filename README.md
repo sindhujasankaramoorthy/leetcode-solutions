@@ -161,6 +161,7 @@ This isn't a dump of random solutions — it's a **daily log of deliberate pract
 | [0104-maximum-depth-of-binary-tree](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0127-word-ladder](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Hard/0127-word-ladder/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
+| [0404-sum-of-left-leaves](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0404-sum-of-left-leaves/) | Easy |
 | [0684-redundant-connection](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0684-redundant-connection/) | Medium |
 | [0733-flood-fill](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0752-open-the-lock](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0752-open-the-lock/) | Medium |
@@ -191,6 +192,7 @@ This isn't a dump of random solutions — it's a **daily log of deliberate pract
 | [0100-same-tree](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
+| [0404-sum-of-left-leaves](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0404-sum-of-left-leaves/) | Easy |
 | [0684-redundant-connection](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0684-redundant-connection/) | Medium |
 | [0733-flood-fill](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
@@ -201,6 +203,7 @@ This isn't a dump of random solutions — it's a **daily log of deliberate pract
 | [0102-binary-tree-level-order-traversal](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
+| [0404-sum-of-left-leaves](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0404-sum-of-left-leaves/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -208,6 +211,7 @@ This isn't a dump of random solutions — it's a **daily log of deliberate pract
 | [0102-binary-tree-level-order-traversal](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
+| [0404-sum-of-left-leaves](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0404-sum-of-left-leaves/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
