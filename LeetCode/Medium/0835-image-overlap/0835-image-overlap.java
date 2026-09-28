@@ -1,6 +1,6 @@
 class Solution {
     public int largestOverlap(int[][] img1, int[][] img2) {
-        int n=img1.length, ans =0 ;
+        //int n=img1.length, ans =0 ;
         /*List<int[]> a=new ArrayList<>();
         List<int[]> b=new ArrayList<>();
 
@@ -31,6 +31,7 @@ class Solution {
 
         return ans;*/
 
+        /* METHOD 2
         Map<String, Integer> map =  new HashMap<>();
 
         for(int i=0;i<n;i++) {
@@ -52,6 +53,48 @@ class Solution {
                 }
             }
         }
-        return ans;
+        return ans;*/
+
+        // METHOD 3
+
+        int n = img1.length;
+
+        // Store count of each shift
+        int[][] shifts = new int[2 * n][2 * n];
+
+        int maxOverlap = 0;
+
+        // Pick every 1 from img1
+        for (int r1 = 0; r1 < n; r1++) {
+            for (int c1 = 0; c1 < n; c1++) {
+
+                if (img1[r1][c1] != 1)
+                    continue;
+
+                // Pick every 1 from img2
+                for (int r2 = 0; r2 < n; r2++) {
+                    for (int c2 = 0; c2 < n; c2++) {
+
+                        if (img2[r2][c2] != 1)
+                            continue;
+
+                        // Calculate the shift
+                        int rowShift = n + r1 - r2;
+                        int colShift = n + c1 - c2;
+
+                        // Count this shift
+                        shifts[rowShift][colShift]++;
+
+                        // Update maximum overlap
+                        maxOverlap = Math.max(
+                            maxOverlap,
+                            shifts[rowShift][colShift]
+                        );
+                    }
+                }
+            }
+        }
+
+        return maxOverlap;
     }
 }
