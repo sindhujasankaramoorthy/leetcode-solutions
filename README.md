@@ -100,6 +100,7 @@ This isn't a dump of random solutions — it's a **daily log of deliberate pract
 | [0740-delete-and-earn](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0740-delete-and-earn/) | Medium |
 | [0752-open-the-lock](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0752-open-the-lock/) | Medium |
 | [0773-sliding-puzzle](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Hard/0773-sliding-puzzle/) | Hard |
+| [0835-image-overlap](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0835-image-overlap/) | Medium |
 | [0994-rotting-oranges](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Algorithm X
@@ -181,6 +182,7 @@ This isn't a dump of random solutions — it's a **daily log of deliberate pract
 | ------- | ------- |
 | [0733-flood-fill](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0773-sliding-puzzle](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Hard/0773-sliding-puzzle/) | Hard |
+| [0835-image-overlap](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0835-image-overlap/) | Medium |
 | [0994-rotting-oranges](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
