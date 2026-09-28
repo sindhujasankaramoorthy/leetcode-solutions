@@ -56,6 +56,7 @@ This isn't a dump of random solutions — it's a **daily log of deliberate pract
 | [0051-n-queens](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Hard/0052-n-queens-ii/) | Hard |
 | [0089-gray-code](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0089-gray-code/) | Medium |
+| [0773-sliding-puzzle](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Hard/0773-sliding-puzzle/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +97,7 @@ This isn't a dump of random solutions — it's a **daily log of deliberate pract
 | [0733-flood-fill](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0740-delete-and-earn](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0740-delete-and-earn/) | Medium |
 | [0752-open-the-lock](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0752-open-the-lock/) | Medium |
+| [0773-sliding-puzzle](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Hard/0773-sliding-puzzle/) | Hard |
 | [0994-rotting-oranges](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Algorithm X
@@ -114,6 +116,7 @@ This isn't a dump of random solutions — it's a **daily log of deliberate pract
 | [0486-predict-the-winner](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 | [0740-delete-and-earn](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0740-delete-and-earn/) | Medium |
+| [0773-sliding-puzzle](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Hard/0773-sliding-puzzle/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/1143-longest-common-subsequence/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -137,6 +140,7 @@ This isn't a dump of random solutions — it's a **daily log of deliberate pract
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
+| [0773-sliding-puzzle](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Hard/0773-sliding-puzzle/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,12 +170,14 @@ This isn't a dump of random solutions — it's a **daily log of deliberate pract
 | [0684-redundant-connection](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0684-redundant-connection/) | Medium |
 | [0733-flood-fill](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0752-open-the-lock](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0752-open-the-lock/) | Medium |
+| [0773-sliding-puzzle](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Hard/0773-sliding-puzzle/) | Hard |
 | [0994-rotting-oranges](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0733-flood-fill](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
+| [0773-sliding-puzzle](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Hard/0773-sliding-puzzle/) | Hard |
 | [0994-rotting-oranges](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -231,4 +237,13 @@ This isn't a dump of random solutions — it's a **daily log of deliberate pract
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Hard/0127-word-ladder/) | Hard |
 | [0752-open-the-lock](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0752-open-the-lock/) | Medium |
+| [0773-sliding-puzzle](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Hard/0773-sliding-puzzle/) | Hard |
+## Heuristic Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0773-sliding-puzzle](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Hard/0773-sliding-puzzle/) | Hard |
+## A* Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0773-sliding-puzzle](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Hard/0773-sliding-puzzle/) | Hard |
 <!---LeetCode Topics End-->
