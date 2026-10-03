@@ -68,6 +68,7 @@ This isn't a dump of random solutions — it's a **daily log of deliberate pract
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0067-add-binary](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0127-word-ladder](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Hard/0127-word-ladder/) | Hard |
 | [0752-open-the-lock](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0752-open-the-lock/) | Medium |
@@ -89,6 +90,7 @@ This isn't a dump of random solutions — it's a **daily log of deliberate pract
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0051-n-queens](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
@@ -280,4 +282,8 @@ This isn't a dump of random solutions — it's a **daily log of deliberate pract
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
