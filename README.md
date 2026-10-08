@@ -72,6 +72,7 @@ This isn't a dump of random solutions — it's a **daily log of deliberate pract
 | [0067-add-binary](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0127-word-ladder](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Hard/0127-word-ladder/) | Hard |
 | [0752-open-the-lock](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0752-open-the-lock/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/1143-longest-common-subsequence/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
@@ -277,10 +278,12 @@ This isn't a dump of random solutions — it's a **daily log of deliberate pract
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
