@@ -5,9 +5,7 @@ class Solution {
         for(int x: nums) {
             if(x < target) {
                 less++;
-            }
-
-            if(x == target) {
+            }else if(x == target) {
                 t_count++;
             }
         }
