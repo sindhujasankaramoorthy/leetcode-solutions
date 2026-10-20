@@ -1,8 +1,11 @@
 class Solution {
     public boolean isHappy(int n) {
         if(n==1) return true;
+        Set<Integer> set = new HashSet<>();
 
-        while(n!=1 && n!=4) {
+        while(n!=1) {
+            if(!set.add(n)) return false;
+
             String s=String.valueOf(n);
             int num=0;
 
