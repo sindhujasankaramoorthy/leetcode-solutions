@@ -48,6 +48,7 @@ This isn't a dump of random solutions — it's a **daily log of deliberate pract
 | [0067-add-binary](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0089-gray-code](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0089-gray-code/) | Medium |
+| [0202-happy-number](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0365-water-and-jug-problem](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0365-water-and-jug-problem/) | Medium |
 | [0486-predict-the-winner](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
@@ -153,6 +154,7 @@ This isn't a dump of random solutions — it's a **daily log of deliberate pract
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Hard/0127-word-ladder/) | Hard |
 | [0141-linked-list-cycle](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
+| [0202-happy-number](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0740-delete-and-earn](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0740-delete-and-earn/) | Medium |
 | [0752-open-the-lock](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0752-open-the-lock/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
@@ -198,10 +200,12 @@ This isn't a dump of random solutions — it's a **daily log of deliberate pract
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
+| [0202-happy-number](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
+| [0202-happy-number](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
