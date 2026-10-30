@@ -86,6 +86,7 @@ This isn't a dump of random solutions — it's a **daily log of deliberate pract
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/3364-minimum-positive-sum-subarray/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,6 +111,7 @@ This isn't a dump of random solutions — it's a **daily log of deliberate pract
 | [0994-rotting-oranges](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/3364-minimum-positive-sum-subarray/) | Easy |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -313,4 +315,5 @@ This isn't a dump of random solutions — it's a **daily log of deliberate pract
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/3364-minimum-positive-sum-subarray/) | Easy |
 <!---LeetCode Topics End-->
