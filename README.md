@@ -84,6 +84,7 @@ This isn't a dump of random solutions — it's a **daily log of deliberate pract
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -96,6 +97,7 @@ This isn't a dump of random solutions — it's a **daily log of deliberate pract
 | [0051-n-queens](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0213-house-robber-ii](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
 | [0393-utf-8-validation](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0393-utf-8-validation/) | Medium |
 | [0486-predict-the-winner](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
@@ -301,9 +303,14 @@ This isn't a dump of random solutions — it's a **daily log of deliberate pract
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
