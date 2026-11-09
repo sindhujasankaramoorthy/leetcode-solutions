@@ -109,6 +109,7 @@ This isn't a dump of random solutions — it's a **daily log of deliberate pract
 | [0773-sliding-puzzle](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Hard/0773-sliding-puzzle/) | Hard |
 | [0835-image-overlap](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0835-image-overlap/) | Medium |
 | [0994-rotting-oranges](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
@@ -325,4 +326,8 @@ This isn't a dump of random solutions — it's a **daily log of deliberate pract
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/3364-minimum-positive-sum-subarray/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 <!---LeetCode Topics End-->
