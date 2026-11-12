@@ -114,6 +114,7 @@ This isn't a dump of random solutions — it's a **daily log of deliberate pract
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Medium/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/sindhujasankaramoorthy/leetcode-solutions/tree/main/LeetCode/Easy/3364-minimum-positive-sum-subarray/) | Easy |
 ## Algorithm X
